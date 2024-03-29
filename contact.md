@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-order: 1
+order: 2
 in_menu: true
 ---
 ![logo]({% link images/logo_sud_fonce.reduit+.png %})
