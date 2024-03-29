@@ -3,7 +3,7 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
-![Logo Sud Santé Sociaux]({% link images/banière.png %})
+![Logo Sud Santé Sociaux]({% link images/baniere2.png %})
 
 <p>
 <p>
@@ -12,4 +12,6 @@ in_menu: true
 PREAVIS DE GREVE DU MOIS D'AVRIL 2024 
 </font></h3>
 <p>
-![Texte décrivant l'image]({% link images/Tract_4_avril.png %}) 
+
+<p>
+<img src="https://sudsantesociauxucrm.github.io/section-ucrm/images/Tract_4_avril.png" /> 
