@@ -3,15 +3,28 @@ title: "Activités"
 order: 1
 in_menu: true
 ---
-L’association cherche à œuvrer en collaboration avec des organismes publics, des organisations privées et des individus.
+<h1><font color="#A02383">
+Ici bientôt, des liens vers des sujets généraux 
+</font></h1>
 
-## Nos activités
+<p>
+<p>
 
-A titre indicatif, les activités commerciales possibles sont (liste non-exhaustive) :
+<h3><font color="#A02383">
+Harcèlement moral : de quoi parle-t-on ?
+</font></h3>
 
-- Accompagnement à la **création de structures** juridiques
-- Conception, développement et accompagnement de **produits innovants**
-- **Formation** d’enfants et d’adultes, par exemple dans les domaines de la communication non-violente, méthodologie lean et approche agile, les relations aux animaux, l’alimentation, la gestion de budget familial ou d’entreprise…
-- Projets à **impact environnemental positif**
-- Projets à **impact social positif**
-- Vente d’objets ou de denrées alimentaires, avec **impact humain ou environnemental positif**
+<h3><font color="#A02383">
+Harcèlement sexiste et sexuel : de quoi parle-t-on ?
+</font></h3>
+
+<h3><font color="#A02383">
+Comment faire grève ? 
+</font></h3>
+
+<h3><font color="#A02383">
+Comment saisir la médecine du travail et l'inspection du travail? 
+</font></h3>
+
+<h3><font color="#A02383">
+Le fonctionnement des GAPP</font></h3> 
