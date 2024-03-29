@@ -3,7 +3,7 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
-![Logo Sud Santé Sociaux]({% link images/logo_sud_fonce.reduit.png %})
+![Logo Sud Santé Sociaux]({% link images/logo_sud_fonce.reduit+.png %})
 
 
 <h1><font color="#A02383">
