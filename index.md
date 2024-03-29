@@ -8,7 +8,7 @@ in_menu: true
 <p>
 <p>
 
-<h3><font color="#A02383">
+<h3><font color="#000000">
 PREAVIS DE GREVE DU MOIS D'AVRIL 2024 
 </font></h3>
 <p>
