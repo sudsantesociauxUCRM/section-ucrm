@@ -3,13 +3,14 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
-![Logo Sud Santé Sociaux]({% link images/logo_sud_fonce.reduit+.png %})
-
+![Logo Sud Santé Sociaux]({% link images/banière.png %})
 
 <h1><font color="#A02383">
 Section Syndicale Sud Santé Sociaux de l'UCRM
 </font></h1>
 
+<p>
+<p>
 
 <h3><font color="#A02383">
 PREAVIS DE GREVE DU MOIS D'AVRIL 2024 
