@@ -1,9 +1,9 @@
 ---
-title: Contact
+title: "Contact"
 order: 1
+in_menu: true
 ---
+La section est actuellement composée de xx personnes (Adhérent.e.s ou sympathisant.e.s)
 
-L'Échappée Belle est actuellement composée de 6 membres.
-
-Pour nous contacter : [coucou@lechappeebelle.team](mailto:coucou@lechappeebelle.team)
-`
+Pour nous contacter : [section-syndicale-sud-sante-sociaux-UCRM@proton.me](mailto:section-syndicale-sud-sante-sociaux-UCRM@proton.me)
+` 
