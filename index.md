@@ -10,7 +10,7 @@ in_menu: true
 <p>
 <p>
 <p>
-<h3><font color="#C5D97A">-- AVRIL 2024 --</font></h3>
+<h3><font color="#A02383">-- AVRIL 2024 --</font></h3>
 <p>
 <h3><font color="#000000">
 PREAVIS DE GREVE DU 4 AVRIL 2024 
