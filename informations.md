@@ -3,16 +3,18 @@ title: "Informations"
 order: 1
 in_menu: true
 ---
-### Le savez vous? 
+<p>
+<h3><font color="#A02383">Le savez vous?</font></h3>
 Chaque salarié.e peut prétendre à 12 jours de formation syndicale par an. Les salarié.e.s qui exercent des fonctions syndicales et les animateurs des stages peuvent en bénéficier dans la limite de 18 jours par an.
 
-#### Lien général vers la page service public
-https://www.service-public.fr/particuliers/vosdroits/F2320
+<h4><font color="#C5D97A">Lien général vers la page service public </font></h2>
+<a href="https://www.service-public.fr/particuliers/vosdroits/F2320">https://www.service-public.fr/particuliers/vosdroits/F2320</a>
 
-#### Lien vers la page formations de Sud Santé Sociaux
-https://sudsantesociaux.org/se-former
 
-#### Comment faire concrètement à l'UCRM
+<h4><font color="#C5D97A">Lien vers la page formations de Sud Santé Sociaux </font></h2>
+<a href="https://sudsantesociaux.org/se-former">https://sudsantesociaux.org/se-former</a>
+
+<h4><font color="#C5D97A">Comment faire concrètement à l'UCRM </font></h2>
 (à venir)
 
 ### Ici bientôt, d'autres liens vers des sujets généraux 
