@@ -10,7 +10,7 @@ in_menu: true
 <p>
 <p>
 <p>
-<h3><font color="#A02383">-- AVRIL 2024 --</font></h3>
+<h3><font color="#A02383">- AVRIL 2024 -</font></h3>
 <p>
 <h3><font color="#000000">
 PREAVIS DE GREVE DU 4 AVRIL 2024 
@@ -19,3 +19,5 @@ PREAVIS DE GREVE DU 4 AVRIL 2024
 
 <p>
 <img src="https://sudsantesociauxucrm.github.io/section-ucrm/images/Tract_4_avril.png" /> 
+<p>
+<embed src="https://sudsantesociauxucrm.github.io/section-ucrm/images/2024_04_25_CSD_SUD_SantéS_7_juin_2024.pdf" width="800" height="500" type="application/pdf"/> 
