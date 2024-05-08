@@ -10,6 +10,20 @@ in_menu: true
 <p>
 <p>
 <p>
+<h3><font color="#A02383">- Mai 2024 -</font></h3>
+<p>
+<h3><font color="#000000">
+Appel intersyndical du 1er Mai 2024
+</font></h3>
+<p>
+
+<p>
+<iframe src="https://sudsantesociauxucrm.github.io/section-ucrm/images/APPEL_1er_mai_Intersyndical_2024.pdf" width="100%" height="500px"> </iframe> 
+<p> 
+
+<p>
+<p>
+<p>
 <h3><font color="#A02383">- AVRIL 2024 -</font></h3>
 <p>
 <h3><font color="#000000">
@@ -20,7 +34,3 @@ PREAVIS DE GREVE DU 4 AVRIL 2024
 <p>
 <img src="https://sudsantesociauxucrm.github.io/section-ucrm/images/Tract_4_avril.png" /> 
 <p> 
-
-
-
-<iframe src="https://sudsantesociauxucrm.github.io/section-ucrm/images/APPEL_1er_mai_Intersyndical_2024.pdf" width="100%" height="500px"> </iframe> 
