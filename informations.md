@@ -21,9 +21,15 @@ Chaque salarié.e peut prétendre à 12 jours de formation syndicale par an. Les
 <h4><font color="#C5D97A">Comment faire concrètement à l'UCRM </font></h4>
 (à venir)
 
-### Ici bientôt, d'autres liens vers des sujets généraux 
+<p>
+<h3><font color="#A02383">Ici bientôt, de nouvelles infos vers des sujets généraux</font></h3>
 - Harcèlement moral : de quoi parle-t-on ?
+<p>
 - Harcèlement sexiste et sexuel : de quoi parle-t-on ?
+<p>
 - Comment faire grève ? 
+<p>
 - Comment saisir la médecine du travail et l'inspection du travail? 
+<p>
 - Le fonctionnement des GAPP 
+<p> 
