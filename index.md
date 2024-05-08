@@ -20,3 +20,7 @@ PREAVIS DE GREVE DU 4 AVRIL 2024
 <p>
 <img src="https://sudsantesociauxucrm.github.io/section-ucrm/images/Tract_4_avril.png" /> 
 <p> 
+
+
+
+<iframe src="https://sudsantesociauxucrm.github.io/section-ucrm/images/APPEL_1er_mai_Intersyndical_2024.pdf" width="100%" height="500px"> </iframe> 
